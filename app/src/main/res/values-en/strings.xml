@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="likeNumberCard_card">10 Me Gusta</string>
+    <string name="timecard_card">4 days</string>
+    <string name="firstword_card">Until</string>
+    <string name="username_card">Eliana Mejia</string>
+    <string name="transitionname_picture">transitionnamepicture</string>
+    <string name="tab_search">Buscar</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_profile">Yo</string>
+</resources>

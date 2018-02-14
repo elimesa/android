@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">list_topics</string>
+    <string name="likeNumberCard_card">10 I like it</string>
+    <string name="timecard_card">4 dias</string>
+    <string name="firstword_card">Hace</string>
+    <string name="username_card">Eliana Mejia</string>
+    <string name="transitionname_picture">transitionnamepicture</string>
+    <string name="tab_search">Buscar</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_profile">Yo</string>
+ </resources>
